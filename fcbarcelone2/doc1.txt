@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est FA1A-DB8F
+
+ R‚pertoire de C:\Users\utilisateur\fcbarcelone\fcbarcelone2
+
+23/12/2019  15:05    <DIR>          .
+23/12/2019  15:05    <DIR>          ..
+23/12/2019  14:39                 0 debut.txt
+23/12/2019  15:05                 0 doc1.txt
+               2 fichier(s)                0 octets
+               2 R‚p(s)  75ÿ201ÿ576ÿ960 octets libres
